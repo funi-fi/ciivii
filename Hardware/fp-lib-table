@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "CiiVIi_Dongle_Production_PCB")(type KiCad)(uri "$(KIPRJMOD)/CiiVIi_Dongle_Production_PCB.pretty")(options "")(descr ""))
+)
