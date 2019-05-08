@@ -26,12 +26,16 @@ Use at yuour own risk, no guarantee can be granted for unikely but possible dama
 - source better disc potentimeter with 3pin/2.54pitch footprint
 - scale potentiometer values for wider range in the lower resistancies
 
-### Version history
-V0.1 23.4.2019
+### Links
 
-For controlling MIDI, check out FuniFi Midistik:
+For controlling MIDI, check out FuniFi Midistik: 
 https://github.com/funi-fi/midistik
 
----
-
+FuniFi Playful DIY synth accessories
 https://www.instagram.com/funifimusic/
+
+Board manufactured by PCBWay
+https://www.pcbway.com/project/shareproject/Funifi_CiiVIi.html
+
+### Version history
+- V0.1 12.4.2019
