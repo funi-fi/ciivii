@@ -1,9 +1,12 @@
 # FuniFi CiiVii
-### Analog synth CV&Gate controller
-V0.1
+### Analog synth CV & gate controller
 
 ![](https://user-images.githubusercontent.com/37023311/57374758-54099480-71a4-11e9-8a9d-65fe904e501e.jpg)
 ![](https://user-images.githubusercontent.com/37023311/57375432-1574d980-71a6-11e9-823e-020defc4f0bc.jpg)
+
+### Compact CV & gate controller
+
+FuniFi CiiVii is a compact, programmable control voltage (0-5V CV&gate) controller for synthesizers with analog inputs. There is a popular ATtiny85 microcontroller in the heart of the device which can be progrmmed with Arduino IDE and collection of example patches for sending analog voltages via 12Bit DAC and protective OpAmp. Assembly is easy, just a handful of inecxpensive componets and through-hole board layout. 
 
 Funifi CiiVii is shines with semimodular synths or small Eurorack kits, where extra CV or Gate control is welcome without expensive or large external devices. One CV output 0-5V and one gate output can be programmed to do whatever you want them to do. Just randomising the analog voltage seem to give hours of fun when plugged to various inputs in the analog synthesiser.
 
@@ -13,10 +16,21 @@ There will be DIY kits available when next round of testing has cleared some con
 
 ### Open hardware
 
-Funifi is all open source hardware and open source software, with all four freedoms, basically, do whatever you like with them, as long as you share your derivatives under same freedom. 
+Funifi CiiVIi is open source hardware and open source software, in short do whatever you like with them, as long as you share your derivatives under same granted freedom.
 
 ### Proto-alert
-Known issues
+
+Use at yuour own risk, no guarantee can be granted for unikely but possible damage to the device itself or where it is connected. CiiVii is a prototype. It has been tested but there is a lot of room for improvement. Below are few issues on the todo list. All tips & suggestions welcome.
+- explore OpAmp resistor values for better voltage range
+- explore Attiny85 firmware variation for uploading code without disconneting the device (/reset button?)
+- source better disc potentimeter with 3pin/2.54pitch footprint
+- scale potentiometer values for wider range in the lower resistancies
+
+### Version history
+V0.1 23.4.2019
+
+For controlling MIDI, check out FuniFi Midistik:
+https://github.com/funi-fi/midistik
 
 ---
 
