@@ -14,6 +14,10 @@ Funifi CiiVii is shines with semimodular synths or small Eurorack kits, where ex
 
 There will be DIY kits available when next round of testing has cleared some concerns. The circuit can be build on breadboard very easily for the hasty & geeky ones. If you would be interested in beta testing either the soldering, or coding, or both, don't hesitate to contact, few test kits will be avilable shortly.
 
+### Bill of Materials
+
+Coming soon
+
 ### Open hardware
 
 Funifi CiiVIi is open source hardware and open source software, in short do whatever you like with them, as long as you share your derivatives under same granted freedom.
