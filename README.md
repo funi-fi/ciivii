@@ -1,4 +1,4 @@
-# FuniFi CiiVii
+# Funifi CiiVii
 ### Analog synth CV & gate controller
 
 ![](https://user-images.githubusercontent.com/37023311/57374758-54099480-71a4-11e9-8a9d-65fe904e501e.jpg)
