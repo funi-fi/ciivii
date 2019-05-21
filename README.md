@@ -31,7 +31,7 @@ https://github.com/funi-fi/ciivii/issues/1
 
 ### To-do
 
-explore OpAmp resistor values for better voltage range
+~~explore OpAmp resistor values for better voltage range~~
 - explore Attiny85 firmware variation for uploading code without disconneting the device (/reset button?)
 - source better disc potentimeter with 3pin/2.54pitch footprint
 - scale potentiometer values for wider range in the lower resistancies
