@@ -109,9 +109,9 @@ uint16_t analogReadScaled()                          // Scale pot values, you ca
   uint16_t value = analogRead(POTI);                 // pot returns values 510(POT_MIN) - 682 (disc pot)
 
   // Option A: Scale pot value range to 0 - POT_MIN, multiply by 5, force positive
-  // uint16_t scaled = abs(value - POT_MIN)*5;                      
+  uint16_t scaled = abs(value - POT_MIN)*5;                      
   // Option B: Same as above, but multiply by one of the delaytab coefficients instead of constant 5
-  uint16_t scaled = abs(value - POT_MIN)*delaytab[random(11)];    // randomise note pauses with 1,2,4,8 multiplier
+  // uint16_t scaled = abs(value - POT_MIN)*delaytab[random(11)];    // randomise note pauses with 1,2,4,8 multiplier
   
   return scaled;                                    // x5 multiplier for more exponential reduction in speed
 }
