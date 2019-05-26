@@ -14,6 +14,10 @@ Funifi CiiVii is shines with semimodular synths or small Eurorack kits, where ex
 
 There will be DIY kits available when next round of testing has cleared some concerns. The circuit can be build on breadboard very easily for the hasty & geeky ones. If you would be interested in beta testing either the soldering, or coding, or both, don't hesitate to contact, few test kits will be avilable shortly.
 
+### Make it
+
+Follow the guides in the Github Wiki: https://github.com/funi-fi/ciivii/wiki
+
 ### Bill of Materials
 
 Coming soon
