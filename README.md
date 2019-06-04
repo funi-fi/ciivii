@@ -58,7 +58,6 @@ https://www.pcbway.com/project/shareproject/Funifi_CiiVIi.html
 
 - V0.1 15.4.2018
 
-----------
 
 ### Acknowedgements
 For me, this journey started in Tapei, deep bow for Dimension Plus for hosting several gatherings
