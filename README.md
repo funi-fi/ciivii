@@ -18,9 +18,12 @@ There will be DIY kits available when next round of testing has cleared some con
 
 Follow the guides in the Github Wiki: https://github.com/funi-fi/ciivii/wiki
 
+Digistump Arduino guide
+https://digistump.com/wiki/digispark/tutorials/connecting
+
 ### Bill of Materials
 
-Coming soon
+TBD
 
 ### Open hardware
 
@@ -39,6 +42,7 @@ https://github.com/funi-fi/ciivii/issues/1
 - explore Attiny85 firmware variation for uploading code without disconneting the device (/reset button?)
 - source better disc potentimeter with 3pin/2.54pitch footprint
 - scale potentiometer values for wider range in the lower resistancies
+- BOM
 
 --------
 
